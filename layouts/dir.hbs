@@ -1,0 +1,15 @@
+
+
+<div class="container">
+    <div class="row">
+        {{#each children}}
+            <div class="col-xs-6 col-sm-3 col-lg-2 dir-item">
+                <a href="{{url}}">
+                    <span class="icon-{{file_type}} icon"></span>
+                    <span>{{name}}</span>
+                </a>
+            </div>
+        {{/each}}
+    </div>
+</div>
+
