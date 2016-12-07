@@ -15,6 +15,6 @@ This is a recipe for the Instant Pot.
 - Right before meat is done, peel carrots, wash and cut potatoes, and quarter cabbage
 - When meat done, place meat in oven on warm setting.
 - Place all veggies in liquid from cooking meat.
-- Manual, 4 minutes & quick release steam.
+- Manual, 3 minutes, natural release 1 minute then quick release steam.
     - We did 5 minutes the first time (and natural release for 2 min) and veggies were too soft.
 - Take out meat, slice against the grain and serve with veggies!
