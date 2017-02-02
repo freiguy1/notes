@@ -1,7 +1,13 @@
 ### General
 
 - [Saw file for 14tpi dovetail saw](http://www.leevalley.com/us/Wood/page.aspx?p=69854&cat=1,43072,43089&ap=1) (Item: A)
-- Eventually I want a set of fancy woodworking bench chisels, but let me practice with the ones I have now.
+- [Narex Classic Bevel Edged chisels](http://www.leevalley.com/us/wood/page.aspx?p=67707&cat=1,41504). By priority:
+    - 1 1/4" (highest)
+    - 3/8"
+    - 5/8"
+    - 3/4"
+    - 1 1/2"
+    - Or a set of these would of course be nice!
 - Forstner bits to complete my set [this page](http://www.leevalley.com/US/wood/page.aspx?p=63566&cat=1,180,42240,63566) has all
     - 3/8" bit (item 06J71.06)
     - 5/8" bit (item 06J71.10)
@@ -10,5 +16,7 @@
 - Standing mats for work and workshop [link](https://www.amazon.com/casa-pura-Anti-Fatigue-Runner/dp/B01ITE7WUO/ref=sr_1_4)
     - Work could just be like 3' x 2' or 3' x 3'
     - Workshop should be longer.  6' x 3' or 6' x 2'
-- Damascus Steel Knife Blank for homemade hunting knife! [link](http://www.damascus-blanks.com/products/damascus_hunter_knife_blank_blade_hunting_blanks_skinning_skinner_steel_1095hc.php)
 - [Curved Card Scrapers](http://www.leevalley.com/US/wood/page.aspx?p=32639&cat=1,310,41069&ap=1)
+- [Directional mic for video camera](https://www.amazon.com/dp/B004S494WO?psc=1)
+- 2 (or more) set of woodworking parallel clamps @ 36" or longer
+- [wood moisture % meter](https://www.amazon.com/MoonCity-MD-912-Display-Digital-Moisture/dp/B018VVY19A/ref=sr_1_1?ie=UTF8&qid=1486050882&sr=8-1-spons&keywords=wood+moisture&psc=1)
