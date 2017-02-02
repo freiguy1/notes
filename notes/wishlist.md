@@ -16,7 +16,6 @@
 - Standing mats for work and workshop [link](https://www.amazon.com/casa-pura-Anti-Fatigue-Runner/dp/B01ITE7WUO/ref=sr_1_4)
     - Work could just be like 3' x 2' or 3' x 3'
     - Workshop should be longer.  6' x 3' or 6' x 2'
-- [Curved Card Scrapers](http://www.leevalley.com/US/wood/page.aspx?p=32639&cat=1,310,41069&ap=1)
 - [Directional mic for video camera](https://www.amazon.com/dp/B004S494WO?psc=1)
 - 2 (or more) set of woodworking parallel clamps @ 36" or longer
 - [wood moisture % meter](https://www.amazon.com/MoonCity-MD-912-Display-Digital-Moisture/dp/B018VVY19A/ref=sr_1_1?ie=UTF8&qid=1486050882&sr=8-1-spons&keywords=wood+moisture&psc=1)
