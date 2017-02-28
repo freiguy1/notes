@@ -1,0 +1,5 @@
+- Dice rolling box (drop in top, hits a couple platforms on the way down, dice end up in felted box)
+- Folding chair/stool (design challenge)
+- Electric box joint jig
+- Pallet wood headboard with sconces (and tv remote)
+- Drill & charger station
