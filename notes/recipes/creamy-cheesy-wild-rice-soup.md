@@ -27,12 +27,12 @@ Ingredients:
 - 3/4 cup wild rice
 - 1 medium onion, diced
 - 3 cloves garlic, minced
-- 32 oz chicken broth
-- 8 slices bacon
+- 32 oz chicken broth (low sodium)
+- 8 slices bacon (maple/honey)
 - dash of pepper
 - 3 oz colby (I think), cubed/sliced
 - 3 oz cheddar (I think), cubed/sliced
-- Half small container of velveeta, cubed/sliced
+- Small (8oz) container of velveeta, cubed/sliced
 - 1 super large or 2 chicken breasts, cubed
 - 1 smallest container heavy whipping cream
 - 1/2c water
