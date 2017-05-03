@@ -20,15 +20,9 @@ This thing doesn't have an oil filter. To change oil, shut off gas valve and top
 
 ### Details
 
-- Oil: SAE 10W-30
-    - Model 74624 & 74625
-        - 1.6qt without oil filter replacement
-        - 1.8qt without oil filter replacement
-    - Model 74626, 74630 & 74632
-        - 1.9qt without oil filter replacement
-        - 2.2qt without oil filter replacement
+- Oil: SAE 10W-30. Check @ 1.9qt with oil filter replacement
 - [Oil filter](https://www.amazon.com/Kawasaki-49065-7007-Oil-Filter/dp/B01BF75O3E)
-- Spark plug: NGK BPR4ES 
+- Spark plug: NGK BPR4ES
 
 ### Notes
 
@@ -36,6 +30,7 @@ This thing doesn't have an oil filter. To change oil, shut off gas valve and top
 
 - Bought brand new 09-2015
 - Oil & filter changed 05-2016 (spring 2016)
+- Oil & filter changed 05-2017 (spring 2017)
 
 ----------------------
 
@@ -46,7 +41,7 @@ This thing doesn't have an oil filter. To change oil, shut off gas valve and top
 - Oil: Yamalube 4 (10W30) or SAE 10W30
     - 2.3L/2.43Qt without filter replacement
     - 2.4L/2.54Qt with filter replacement
-- [Oil filter](https://www.amazon.com/2007-2008-Yamaha-Wolverine-YFM450FX-Filter/dp/B00EAJKMNC): just google, I think 
+- [Oil filter](https://www.amazon.com/2007-2008-Yamaha-Wolverine-YFM450FX-Filter/dp/B00EAJKMNC): just google, I think
 - Spark plug: NGK/DR8EA
 
 ### Notes
