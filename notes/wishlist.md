@@ -2,8 +2,7 @@
 
 - [Saw file for 14tpi dovetail saw](http://www.leevalley.com/us/Wood/page.aspx?p=69854&cat=1,43072,43089&ap=1) (Item: A)
 - [Narex Classic Bevel Edged chisels](http://www.leevalley.com/us/wood/page.aspx?p=67707&cat=1,41504). By priority:
-    - 1 1/4" (highest)
-    - 3/8"
+    - 3/8" (highest)
     - 5/8"
     - 3/4"
     - 1 1/2"

@@ -2,9 +2,15 @@ General notes for making a recumbent tadpole trike with a wooden frame. The [bas
 Atomic Zombie plans and I'll be adapting it to use wood instead of all metal. Several of the parts
 will still be metal which will come from recycled bicycles and custom made pieces.
 
-### Purchases
+Used bike salespeople:
 
-A list of things that I had to buy for this project. Tools will be reusable in future projects. Materials mostly won't.
+- Chris: 715-213-3160
+- Pazy 715-572-2382
+
+## Purchases
+
+A list of things that I had to buy for this project. Tools will be reusable in future projects.
+Materials mostly won't.
 
 #### Materials (total: $104.99)
 
