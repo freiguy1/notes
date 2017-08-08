@@ -1,4 +1,4 @@
-tinyurl.com/no-ugly-websites
+[slides](tinyurl.com/no-ugly-websites)
 
 ## Let your text breathe
 
@@ -23,6 +23,7 @@ tinyurl.com/no-ugly-websites
         - proven san-serif easier to read (georgia is a serif that is easyish)
         - #424242 color used for text color (avoid pure black)
 - make visitors learn one visual pattern and stick to it
+- don't be afraid of whitespace. We won't run out of space
 
 ## Images: use appropriately
 
@@ -38,3 +39,18 @@ tinyurl.com/no-ugly-websites
         - not stock images
 
 ## Design: think logically
+
+- User Patterns
+    - Alternate between small, medium and wide
+    - Quality trumps originality  (in most cases)
+    - Find something that works and use it as a model
+- Progressive disclosure
+    - F-shape reading pattern
+    - Top to bottom - important to less important
+    - Above the fold
+    - Avoid putting key content in traditional ad areas
+    - Everything is available to get to somehow, but most important data is shown first.
+    - Put everything there, just not on the same page.
+- Be consistent
+    - Links, buttons, tables, alert messages, header font/sizes, forms
+    - links should be obvious
