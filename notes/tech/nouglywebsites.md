@@ -54,3 +54,8 @@
 - Be consistent
     - Links, buttons, tables, alert messages, header font/sizes, forms
     - links should be obvious
+- Functionality is a part od esign
+    - It doesn' tmatter if it looks good and is easy to use if it doesn't work
+    - back end impacts front-end
+
+>"Design is where science and art break even" - Robin Mathew
