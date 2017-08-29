@@ -1,0 +1,13 @@
+# Wilbur McDoogle.
+
+Annabelle Warren, daughter of Arahar Christopher Warren was a one-of-a-kind beauty. She's hardly ever in a room where another woman's beauty is even on the same playing field as her own. Naturally men swooned over her. The strong men, the charming men, the honorable warriors and even the pudgy, bumbling fools. Much to his chagrin, Wilbur McDoogle found himself in the latter category. If there was anything Wilbur was half good at, it was hauling heavy bushels of grain and writing terrible love letters. Ever since he could remember, he always loved Annabelle. Also ever since he could remember, Annabelle didn't love him. She was always polite about his innumerable advances, but Wilbur knew she was just being curteous.
+
+Around Wilbur's 16th year, he decided one sure-fire way to win over Annabelle's heart was to impress her family - especially her honorable father. He entered The University of the Foehammer - a University dedicated to teaching the ways of Tempus, the God of War. Christopher Warren was a high ranking chaplain with the title Arahar in the Order of the Hardened Fist which was an order of Tempus.
+
+... every day was agony. Wilbur enjoyed none of it, except the brief hand-to-hand combat training sessions. Not only was he spending every day away from his true love, but the University had him reading books, cleaning hallways and trimming hedges. After several semesters, he gained the ability to pray to Tempus to produce feats of healing, making fire, or revealing weaknesses in an enemy's defenses. He merely endured the magical side of his training. His classmates all outperformed Wilbur's skills in this area. But during the hand-to-hand combat, he excelled. He used a 2 handed warhammer and fought wearing chainmail. Few of the other studends enjoyed sparing with Wilbur.
+
+Four slow years of school went by before Wilbur graduated as a Hammer of Tempus: Rank 1 Acolyte. The day had finally come to impress Annabelle and her family. The day that was many years in the making. The day Wilbur thought about each time he dipped the mop back in the soapy bucket. When he finally was able to confront Annabelle, present his new accolades, and once again profess his love for her, she reacted the way Wilbur was fearing the most: polite. She made no indication of reciprocating his feelings.
+
+Days later, Wilbur saw Annabelle arm in arm with a man rumored to be a great warrior. A victor of many spars on the battlefield. At that point, Wilbur knew what he must do. Prove himself as a valiant fighter before she will see him and love him.
+
+Wilbur started seeking adventure anywhere he could find it..
