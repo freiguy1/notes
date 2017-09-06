@@ -30,6 +30,6 @@
 5. Set pressure cooker to manual or meat/stew function for 30 minutes
 6. Release pressure manually by turning heat off (if taking too long, quick release)
 7. Set electric pressure cooker back to saute (high) and bring soup to a boil
-8. Mix in frozen mixed vegetables and orzo pasta
+8. Mix in frozen mixed vegetables
 9. Let boil 5 minutes and serve with parmesan cheese (optional)
 
