@@ -10,7 +10,7 @@ Vegetables can be changed and replaced with your preferences. This ends up sort 
 - 1 small can of kerneled corn
 - 1 package of whole mushrooms (we like petite button mushrooms)
 - 2 little cans of cream of mushroom
-- 1 packet of lipton dry onion soup mix
+- 1 packet of lipton mushroom flavored dry onion soup mix
 - 6 sticks of celery
 - 1 tsp worchestershire sauce
 - 2 tsp A1 steak sauce
@@ -29,7 +29,7 @@ Vegetables can be changed and replaced with your preferences. This ends up sort 
 6. Chop up veggies into bite size pieces.
 7. Drain corn.
 8. Place veggies in crock pot.
-9. Cook on low for another 3-4 hours (until veggies are done to your liking - check carrots).
+9. Cook on low for another 4-5 hours (until veggies are done to your liking - check carrots).
     - We tried for 5 hours (the rest of the afternoon of our work day) and veggies were a bit soft/overcooked.
 10. Take meat out, place on cutting board and remove the bone if there is one. It should mostly fall right out.
     - Venison shoulder blade roasts can have a clear slimey substance in the middle of one of the bigger hunks of meat. I try to remove as much of that as possible. Probably not that big of a deal.
