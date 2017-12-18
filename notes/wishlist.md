@@ -15,7 +15,5 @@
 - Standing mats for work and workshop [link](https://www.amazon.com/casa-pura-Anti-Fatigue-Runner/dp/B01ITE7WUO/ref=sr_1_4)
     - Work could just be like 3' x 2' or 3' x 3'
     - Workshop should be longer.  6' x 3' or 6' x 2'
-- [Directional mic for video camera](https://www.amazon.com/dp/B004S494WO?psc=1)
 - 2 (or more) set of woodworking parallel clamps @ 36" or longer
-- [Quality Flush Trim bit](http://a.co/4gIiwFZ)
 - [Quality 1/8 roundover bit](http://a.co/hbgTD4I)
