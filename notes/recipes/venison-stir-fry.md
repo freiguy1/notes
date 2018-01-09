@@ -38,4 +38,4 @@
 6. Throw veggies in pan and stir fry to preferred done-ness (less than 10 min)
 7. Slowly pour in sauce mixture and re-add meat to pan
 8. Stir for a min or two until it's thickened up a bit
-9. Serve over rice!
+9. Serve over rice (top with sesame seeds for the extra instagram food pic kick)!
