@@ -29,8 +29,9 @@ This thing doesn't have an oil filter. To change oil, shut off gas valve and top
 ### History
 
 - Bought brand new 09-2015
-- Oil & filter changed 05-2016 (spring 2016)
-- Oil & filter changed 05-2017 (spring 2017)
+- Oil & filter changed: spring 2016
+- Oil & filter changed: spring 2017
+- Oil & filter changed. Blades sharpened: spring 2018
 
 ----------------------
 
