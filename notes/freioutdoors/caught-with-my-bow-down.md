@@ -1,0 +1,14 @@
+Fall arrived with nostalgic beauty, and I took my first stab at bow hunting. Ethan and Dad helped set up the targets, and I pounded some hay bales practicing shorter range shots.  After setting the sights, I attempted some longer range shots, more or less succeeding.  I enjoyed this time with the bow--the physical nature of shooting and the skill of placing a shot appealed to me.  So I headed into the woods reasonably confident in my shooting ability, though doubtful I would see any deer. This would be my undoing.
+
+Most of the leaves were off the trees when I entered the 80 by my stand.  After sneaking (or trying to sneak) about 100 yards, I left the trail and found my tree stand, which was set up over a deer trail. This must have been after I conquered my fear of heights, because I wasn't terrified to climb the tree and perch myself on the little seat.  I pulled my bow up by the string dad tied on the stand, then hung it on a hook to my left. I hunkered down and geared up . . . to wait.
+
+Waiting has always been the hallmark of skilled hunters. Even in the animal kingdom, soundless listening and careful watching often yield a tasty dinner for the predator.  There's plenty to do when waiting in a tree stand.  Nature provides its own theatre and stage, with playful squirrels sniffing for nuts, hawks imperiously watching the ground, and scenery to beat any painting. The stand offers a great place to think, or to vegetate . . . or to read.  This would also be my undoing.
+
+At the time, I think I was reading through Romans, which is no easy read. Halfway through chapter one, Paul begins his ingenious discourse on the mechanics of salvation with the depth of man's sin. Man, though he knew God, purposefully repressed that knowledge and sought to be his own god. Both Jew and Greek come under condemnation, for the Jew disobeyed the Law of Moses, and the Greek disobeyed the law written on the heart--the conscience. But now, apart from the Law, the righteousness of God has been manifested, being witnessed by--*CRUNCH*.
+
+I tore my eyes away from Romans and froze. A deer stood right under my stand. And I had an open Bible in my hand. The deer walked forward and I saw another deer. And another. Six or seven total! They all walked slowly along the trail beneath my stand alert, but unaware of my presence.  What to do!? I would need to close and put away my Bible, grab my bow, stand up, draw back, and shoot all without them noticing me! I started to close my Bible, but by the time I decided to move the deer were fast falling out of range.  My Bible was away, I grabbed my bow, and I had lost my chance! The deer walked obliviously on while I stood, unfired bow in hand, watching them go. I was undone.
+
+Many lessons are learned in hunting, some more painful than others. It is very important when bow hunting to know that you shouldn't be caught with your bow down.
+
+by Ben
+
