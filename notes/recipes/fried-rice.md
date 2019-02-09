@@ -22,10 +22,10 @@
 ## Instructions
 
 1. Cook rice regularly or boil with this method:
-    a. Preheat oven to 375
-    b. Boil package's specified amount of water in pan
-    c. Rinse rice (if you have a small enough strainer)
-    d. Put rice in pan, cover, place in oven for 22 min
+    - Preheat oven to 375
+    - Boil package's specified amount of water in pan
+    - Rinse rice (if you have a small enough strainer)
+    - Put rice in pan, cover, place in oven for 22 min
 2. Let rice sit overnight in fridge or place in cold area for half hour
 3. Chop onions, meat, carrots as finely as you'd like
 4. Oil in pan (I used cast iron) and cook chopped carrots on low/med until they get a little softer (8-10 min)
