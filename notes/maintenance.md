@@ -32,6 +32,7 @@ This thing doesn't have an oil filter. To change oil, shut off gas valve and top
 - Oil & filter changed: spring 2016
 - Oil & filter changed: spring 2017
 - Oil & filter changed. Blades sharpened: spring 2018
+- Oil & filter changed. Blades sharpened: spring 2018
 
 ----------------------
 
@@ -42,7 +43,7 @@ This thing doesn't have an oil filter. To change oil, shut off gas valve and top
 - Oil: Yamalube 4 (10W30) or SAE 10W30
     - 2.3L/2.43Qt without filter replacement
     - 2.4L/2.54Qt with filter replacement
-- [Oil filter](https://www.amazon.com/2007-2008-Yamaha-Wolverine-YFM450FX-Filter/dp/B00EAJKMNC): just google, I think
+- [Oil filter](https://www.amazon.com/gp/product/B008S6GEB2/ref=ox_sc_mini_detail?ie=UTF8&psc=1&smid=ATVPDKIKX0DER)
 - Spark plug: NGK/DR8EA
 
 ### Notes
@@ -52,3 +53,4 @@ Be sure to apply a thin coat of oil to the oil filter seal.
 ### History
 
 - Oil & filter changed 12-2015
+- Oil, filter, spark plug changed 05-2019
