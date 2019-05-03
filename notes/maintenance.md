@@ -32,7 +32,7 @@ This thing doesn't have an oil filter. To change oil, shut off gas valve and top
 - Oil & filter changed: spring 2016
 - Oil & filter changed: spring 2017
 - Oil & filter changed. Blades sharpened: spring 2018
-- Oil & filter changed. Blades sharpened: spring 2018
+- Oil & filter changed. Blades sharpened: spring 2019
 
 ----------------------
 
