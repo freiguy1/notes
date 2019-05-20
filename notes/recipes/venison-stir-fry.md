@@ -4,7 +4,8 @@
 
 **Sauce**
 - 1/2c water
-- 1/4c soy sauce
+- 2T soy sauce
+- 2T fish sauce
 - 2T brown sugar
 - 1T cornstarch
 - 1t ginger
