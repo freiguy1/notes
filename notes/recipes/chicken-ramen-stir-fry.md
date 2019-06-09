@@ -2,7 +2,7 @@
 
 This is a stir fry dish found on Facebook
 
-_(Link to original recipe)[https://www.recipetineats.com/chicken-vegetable-ramen-noodles/#wprm-recipe-container-33759]_
+_[Link to original recipe](https://www.recipetineats.com/chicken-vegetable-ramen-noodles/#wprm-recipe-container-33759)_
 
 ### Ingredients
 - 3 Packets of Ramen (no seasoning packets)
