@@ -44,7 +44,7 @@ This thing doesn't have an oil filter. To change oil, shut off gas valve and top
     - 2.3L/2.43Qt without filter replacement
     - 2.4L/2.54Qt with filter replacement
 - [Oil filter](https://www.amazon.com/gp/product/B008S6GEB2/ref=ox_sc_mini_detail?ie=UTF8&psc=1&smid=ATVPDKIKX0DER)
-- Spark plug: NGK/DR8EA
+- Spark plug: NGK/DR8EA (18mm socket)
 
 ### Notes
 
@@ -53,4 +53,4 @@ Be sure to apply a thin coat of oil to the oil filter seal.
 ### History
 
 - Oil & filter changed 12-2015
-- Oil, filter, spark plug changed 05-2019
+- Oil, filter, spark plug changed 06-2019
