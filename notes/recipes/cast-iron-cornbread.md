@@ -1,6 +1,6 @@
 # Cast Iron Cornbread
 
-![](../images/cornbread.jpg)
+![](../assets/images/cornbread.jpg)
 
 [Source](https://www.kyleecooks.com/fluffy-golden-skillet-corn-bread/#wprm-recipe-container-6403)
 
