@@ -1,4 +1,4 @@
-#The Best Apple Crisp
+# The Best Apple Crisp
 
 ### Ingredients
 - 6ish apples, peeled and chopped
