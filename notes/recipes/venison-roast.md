@@ -4,14 +4,14 @@ Vegetables can be changed and replaced with your preferences. This ends up sort 
 
 ### Ingredients
 
-- 8 baby red potatoes
-- 8 chopped, peeled large carrots
+- 6 baby red potatoes
+- 6 chopped, peeled large carrots
 - 1 large white onion (or 3 smalls)
 - 1 small can of kerneled corn
-- 1 package of whole mushrooms (we like petite button mushrooms)
+- 1 package of whole mushrooms (we like petite button mushrooms, otherwise chop bigger ones)
 - 2 little cans of cream of mushroom
 - 1 packet of lipton mushroom flavored dry onion soup mix
-- 6 sticks of celery
+- 4 sticks of celery
 - 1 tsp worchestershire sauce
 - 2 tsp A1 steak sauce
 - Pepper
@@ -28,11 +28,11 @@ Vegetables can be changed and replaced with your preferences. This ends up sort 
 5. Allow to cook for first half of day (3-5 hours) on low. When we did it, it was for 4 hours.
 6. Chop up veggies into bite size pieces.
 7. Drain corn.
-8. Place veggies in crock pot.
+8. Place veggies in crock pot. Keep meat on bottom so it is most tender.
 9. Cook on low for another 4-5 hours (until veggies are done to your liking - check carrots).
     - We tried for 5 hours (the rest of the afternoon of our work day) and veggies were a bit soft/overcooked.
 10. Take meat out, place on cutting board and remove the bone if there is one. It should mostly fall right out.
-    - Venison shoulder blade roasts can have a clear slimey substance in the middle of one of the bigger hunks of meat. I try to remove as much of that as possible. Probably not that big of a deal.
+    - Venison shoulder blade roasts can have a clear slimey smelly substance in the middle of one of the bigger hunks of meat. I try to remove as much of that as possible. Probably not that big of a deal.
 11. Cut the meat into smaller pieces.
 12. Add the meat back to the crock pot, stir, and serve.
 
@@ -47,3 +47,6 @@ Vegetables can be changed and replaced with your preferences. This ends up sort 
 7. Low for 8-10 hours
 8. Extract meat, cut from bone into bite size pieces
 9. Mix back in and serve.
+
+EDIT 10/8/2019: I lowered the amount of vegetables because that amount wasn't cooking completely in 5 hours.
+

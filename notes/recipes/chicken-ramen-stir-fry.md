@@ -11,7 +11,7 @@ _[Link to original recipe](https://www.recipetineats.com/chicken-vegetable-ramen
 - 3 or 4 garlic cloves _minced_
 - 1 onion _sliced into thin wedges_
 - 4 bone-in chicken thighs _deboned and thinly sliced_
-- 2 c water
+- 1 1/2 c water
 - 1.5 carrots _cut into matchsticks_
 - 1 bell pepper _cut into thin 2" slices_
 - 1/3 or 1/2 cabbage head _thinly sliced_
@@ -39,3 +39,4 @@ _note: try replacing veggie with broccoli or something_
 10. Add cabbage, toss for 1 minute until the sauce reduces to coat the noodles and the noodles are cooked.
 11. Serve immediately, garnish with green onion optionally
 
+EDIT 10/8/2019: Lowered the amount of water a bit since it was quite soupy
