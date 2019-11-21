@@ -23,6 +23,6 @@
 3. In another bowl blend the egg, milk and vegetable oil until well combined.
 4. Add wet ingredients to dry ingredients and mix until just combined.
 5. Pour batter into skillet.
-6. Bake for 24 min and then check every couple minutes with cake tester.
+6. Bake for 31 min and then check every couple minutes with cake tester.
 7. Remove from oven and let it cool for 10 min
 
