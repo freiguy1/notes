@@ -1,5 +1,7 @@
 On St Patty's day, I really enjoy a cooked corn beef with cabbage and potatoes.  However, since I don't make it that often, I thought I'd take some notes.
 
+![](../assets/images/corned-beef-cabbage.jpg)
+
 #### Ingredients
 
 1. One corn beef (which should come w/ a seasoning packet). This year was 1.7 lb.
