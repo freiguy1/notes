@@ -4,22 +4,20 @@ On St Patty's day, I really enjoy a cooked corn beef with cabbage and potatoes. 
 
 1. One corn beef (which should come w/ a seasoning packet). This year was 1.7 lb.
 2. One head of cabbage
-3. 8 baby red potatoes
+3. 8 baby red potatoes (switched to yukon and loved the smoothness)
 4. Like 8 Carrots
+5. Water
 
 #### Directions
 
-1. Chop poatoes up into bite size pieces.
-2. Put thawed beef in 5 qt crock pot.
-3. Fill with a few cups of water.
-4. After 1 hour on high, put carrots in, reduce heat to low.
-5. After 1 hour, put potatoes in.
-6. After 1 hour, put cabbage in.
-7. Wait 2-3 more hours.
-
-
-
-That's what I'm doing this year (2015).  If it's terrible, I'll delete this note.
-
-I tweaked this recipe a bit since we weren't completely pleased with the outcome.
+1. Chop poatoes and carrots to desired size.
+2. Put thawed corned beef in 5 qt crock pot.
+3. Put chopped potatoes around beef so they're next to the sides of the crock pot if possible. And carrots can go on top.
+4. Submerge at least the meat and potatoes in water.
+5. Put on seasoning packet.
+6. Low for 7 hours.
+7. Chop cabbage and put on top
+8. Low for another 1.5 hours.
+9. Pull meat out and chop up perpindicular to grain in half inch pieces.
+10. Put meat back in, mix and serve.
 
