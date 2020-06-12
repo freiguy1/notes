@@ -1,6 +1,24 @@
+# 2016 New Holland Workmaster 37
+
+### Notes
+Bought in Fall of 2019 for $14,300. Manual bought from Cherokee Garage for $25.
+
+### Consumables
+- Oil: 1 gal synthetic 10W-30. Change every 300 hours.
+- Filter: MT40283380 (can purchase from Cherokee Garage in Colby). And possibly WIX 57000
+
+### History
+- 5-20
+    - Epoxied left (from driver's headlight back on to hood, previous owner must've broken it)
+- 6-20
+    - Oil changed with Shell T4 10W-30 synthentic and filter from new holland dealership
+    - Greased bearings that I could see without manual to guide me
+
+--------------------
+
 # Honda push mower
 
-### Details
+### Consumables
 
 - Oil: (.4QT?) SAE-10W30
 - Sparkplug: NGK-BPR6ES or NGK-BP6ES
@@ -18,7 +36,7 @@ This thing doesn't have an oil filter. To change oil, shut off gas valve and top
 
 # Toro Zero Turn
 
-### Details
+### Consumables
 
 - Oil: SAE 10W-30. Check @ 1.9qt with oil filter replacement
 - [Oil filter](https://www.amazon.com/Kawasaki-49065-7007-Oil-Filter/dp/B01BF75O3E)
@@ -33,12 +51,13 @@ This thing doesn't have an oil filter. To change oil, shut off gas valve and top
 - Oil & filter changed: spring 2017
 - Oil & filter changed. Blades sharpened: spring 2018
 - Oil & filter changed. Blades sharpened. Mower belt replaced: spring 2019
+- Oil & filter changed. Blades sharpened: spring 2020
 
 ----------------------
 
 # 2008 Yamaha Wolverine
 
-### Details
+### Consumables
 
 - Oil: Yamalube 4 (10W30) or SAE 10W30
     - 2.3L/2.43Qt without filter replacement
