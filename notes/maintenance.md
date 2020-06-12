@@ -1,7 +1,7 @@
 # 2016 New Holland Workmaster 37
 
 ### Notes
-Bought in Fall of 2019 for $14,300. Manual bought from Cherokee Garage for $25.
+Bought in Fall of 2019 for $14,300. Manual bought from Cherokee Garage for $25. S/N: 2271001799
 
 ### Consumables
 - Oil: 1 gal synthetic 10W-30. Change every 300 hours.
