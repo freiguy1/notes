@@ -9,10 +9,11 @@ Bought in Fall of 2019 for $14,300. Manual bought from Cherokee Garage for $25. 
 
 ### History
 - 5-20
-    - Epoxied left (from driver's headlight back on to hood, previous owner must've broken it)
+    - Epoxied left (from driver's perspective) headlight back on to hood, previous owner must've broken it
 - 6-20
     - Oil changed with Shell T4 10W-30 synthentic and filter from new holland dealership
-    - Greased bearings that I could see without manual to guide me
+    - Greased bearings that I could see without manual to guide me.
+    - Subsequently bought manual for $25 from cherokee garage and greased the rest.
 
 --------------------
 
